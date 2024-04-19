@@ -1,0 +1,33 @@
+/* body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:36px;
+}
+a{
+    text-decoration:none;
+    color:orange;
+}
+a:visited{
+    color:green;
+}
+a:hover, a:focus {
+    text-decoration:underline;
+    color:red;
+}
+a:active{
+    color:blue;
+}
+li {
+    list-style-type:circle;
+    list-style-position:inside;
+    list-style-image:url(../images/pos.jpeg); 
+    line-height:4rem;;
+    color:blue;
+}
+
+li:nth-child(odd){
+    color:red;
+}
+li ::marker{
+    color:yellow;
+}
+ */
