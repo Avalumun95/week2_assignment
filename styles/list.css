@@ -47,4 +47,23 @@ li a{
 li:last-child a {
     border-radius:0 0 2rem 2rem;
 }
-
+p {
+    text-align:left;
+}
+.center {
+    text-align:center;
+}
+.nav1{
+    background-color:papayawhip;
+    border-radius:0;
+    border-color:green;
+}
+.nav1 a{
+    text-decoration:none;
+    padding:2em;
+    color:#000;
+}
+.nav1 a:hover {
+    color:red;
+    text-decoration:underline;
+}
